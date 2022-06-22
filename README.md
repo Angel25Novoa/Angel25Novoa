@@ -3,7 +3,7 @@
 <div align="center">
   <h3>I am mainly focused on the development of web applications with tecnologies like JavaScript or Typescript</h3> <img src="https://geekflare.com/wp-content/uploads/2021/09/javascript-vs-typescript.jpg" width="1000"/>
   <p>However I'm also familiar with C++, Python and other javascript technologies like nodejs</p> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FMqctbfI-rQRnfkx3zlQTp-DatdCiBxXmA&usqp=CAU" width="200" height="250"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FMqctbfI-rQRnfkx3zlQTp-DatdCiBxXmA&usqp=CAU" width="200" height="150"/>
   <img src="https://anthoncode.com/wp-content/uploads/2019/01/c-logo-png.png" width="200"/>
   <img src="https://assets.zabbix.com/img/brands/nodejs.svg" width="200"/>
 </div>
