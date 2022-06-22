@@ -2,7 +2,7 @@
 <h1 align="center"> My name is Jorge Angel Novoa I'm a Fullstack dev focused on React Frontend</h1>
 <div align="center">
   <h3>I am mainly focused on the development of web applications with tecnologies like JavaScript or Typescript</h3>
-  <p>However I'm also familiar with C++, Python and Rust</p> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FMqctbfI-rQRnfkx3zlQTp-DatdCiBxXmA&usqp=CAU" />
+  <p>However I'm also familiar with C++, Python and Rust</p> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FMqctbfI-rQRnfkx3zlQTp-DatdCiBxXmA&usqp=CAU" width="200"/>
 </div>
 <h2>Hey there thanks for passing by</h2>
 <div align="center">
