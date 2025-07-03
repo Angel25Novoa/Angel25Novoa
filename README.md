@@ -1,5 +1,5 @@
 
-<h1 align="center"> My name is Jorge Angel Novoa I'm a Fullstack dev focused on React Frontend</h1>
+<h1 align="center"> My name is Jorge Angel Novoa I'm a frontend developer focused mainly on React Frontend</h1>
 <div align="center">
   <h3>I am mainly focused on the development of web applications with tecnologies like JavaScript or Typescript</h3> <img src="https://geekflare.com/wp-content/uploads/2021/09/javascript-vs-typescript.jpg" width="850"/>
   <p>However I'm also familiar with C++, Python and other javascript technologies like nodejs</p> 
